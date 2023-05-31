@@ -65,6 +65,8 @@ Preprocessing the input image for classification
 Utilizing the forward pass of the model for prediction
 Extracting the predicted class and its probability
 
+![Screenshot 2023-05-30 161306](https://github.com/eshagawate/Real-Time_Food_Classification/assets/115074194/5428623e-4ab2-4fb1-88ba-fd5854c965ac)
+
 ![Screenshot 2023-06-01 004540](https://github.com/eshagawate/Real-Time_Food_Classification/assets/115074194/d0456f0a-7cdf-4ae1-9afe-95d5017e501c)
 
 Generating bill for the users mentioning the calorie count
