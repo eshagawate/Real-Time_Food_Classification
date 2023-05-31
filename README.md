@@ -6,15 +6,16 @@ InceptionV3 is a popular deep learning model that has shown excellent performanc
 
 ## The key features of the InceptionV3 architecture include:
 
-Multiple parallel convolutional pathways: The Inception module consists of convolutional layers with different filter sizes (1x1, 3x3, and 5x5). These parallel pathways are designed to capture features at different spatial scales and provide a richer representation of the input.
+1. Multiple parallel convolutional pathways: The Inception module consists of convolutional layers with different filter sizes (1x1, 3x3, and 5x5). These parallel pathways are designed to capture features at different spatial scales and provide a richer representation of the input.
 
-Dimensionality reduction: InceptionV3 incorporates 1x1 convolutions as bottleneck layers to reduce the dimensionality of the input. This helps reduce computational complexity while preserving important features.
+2. Dimensionality reduction: InceptionV3 incorporates 1x1 convolutions as bottleneck layers to reduce the dimensionality of the input. This helps reduce computational complexity while preserving important features.
 
-Auxiliary classifiers: InceptionV3 includes auxiliary classifiers at intermediate layers of the network, which are used during training to provide additional supervision. These auxiliary classifiers help combat the vanishing gradient problem and improve the flow of gradients during backpropagation.
+3. Auxiliary classifiers: InceptionV3 includes auxiliary classifiers at intermediate layers of the network, which are used during training to provide additional supervision. These auxiliary classifiers help combat the vanishing gradient problem and improve the flow of gradients during backpropagation.
 
-Global average pooling: Instead of using fully connected layers at the end, InceptionV3 employs global average pooling, which reduces the spatial dimensions of the feature maps to a single vector. This approach reduces overfitting and makes the model more robust to variations in input size.
+4. Global average pooling: Instead of using fully connected layers at the end, InceptionV3 employs global average pooling, which reduces the spatial dimensions of the feature maps to a single vector. This approach reduces overfitting and makes the model more robust to variations in input size.
 
 ## Benefits of using InceptionV3 for food classification:
+
 InceptionV3 offers several benefits when applied to food classification tasks:
 
 High accuracy: InceptionV3 has demonstrated impressive performance on large-scale image classification benchmarks like ImageNet. It has been trained on a diverse range of objects, including food items, enabling it to learn discriminative features for accurate food classification.
