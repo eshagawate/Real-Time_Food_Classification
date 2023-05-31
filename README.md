@@ -64,5 +64,11 @@ Loading the trained InceptionV3 model
 Preprocessing the input image for classification
 Utilizing the forward pass of the model for prediction
 Extracting the predicted class and its probability
+
+![Screenshot 2023-06-01 004540](https://github.com/eshagawate/Real-Time_Food_Classification/assets/115074194/d0456f0a-7cdf-4ae1-9afe-95d5017e501c)
+
 Generating bill for the users mentioning the calorie count
+
+![image](https://github.com/eshagawate/Real-Time_Food_Classification/assets/115074194/78f3c524-da40-4780-9f15-fa83c7216a16)
+
 
