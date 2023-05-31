@@ -37,6 +37,8 @@ Gathering a food dataset for training and evaluation
 Annotating and labeling the images with appropriate food categories
 Splitting the dataset into training and testing sets
 
+![image](https://github.com/eshagawate/Real-Time_Food_Classification/assets/115074194/c2a5e180-fdec-4dc2-b4ce-0defbce54bba)
+
 ## Fine-tuning InceptionV3:
 
 Loading the pre-trained InceptionV3 model with ImageNet weights
